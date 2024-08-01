@@ -1,0 +1,17 @@
+,Full_Effect_RUMBoost
+_best_GMPCA,0.525784613
+_best_iter,769
+_best_loss,0.642863631
+_elapsed_time,5366.067328
+bagging_fraction,0.700242808
+bagging_freq,3
+feature_fraction,0.866654052
+lambda_l1,6.591757386
+lambda_l2,1.027567442
+learning_rate,0
+max_bin,131
+min_data_in_leaf,27
+min_gain_to_split,0.800317714
+min_sum_hessian_in_leaf,1.783243554
+num_leaves,74
+mu,
