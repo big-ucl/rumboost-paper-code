@@ -3,7 +3,7 @@ All the code needed to reproduce the RUMBoost paper results. The code in ML clas
 ](https://github.com/JoseAngelMartinB/prediction-behavioural-analysis-ml-travel-mode-choice), from [reslogit](https://github.com/LiTrans/reslogit) for the ResLogit and from [EnhancedDCM](https://github.com/BSifringer/EnhancedDCM) for the L-MNL.
 
  - The rumboost and RUMs folder contains:
-    * the underlying rumboost code (rumbooster.py, utils.py, models.py, function_smoothing.py, datasets.py and benchmarks.py)
+    * the underlying rumboost code (rumbooster.py, utils.py, models.py, function_smoothing.py, datasets.py and benchmarks.py). This mostly corresponds to [rumboost version 1.0.2](https://github.com/big-ucl/rumboost/tree/v1.0.2).
     * the jupyter notebooks to run all rumboost and RUMs models on the LPMC dataset (lpmc_experiments_rumboost.ipynb)
     * the python script used to tune hyperparameters for RUMBoost-Nested and RUMBoost-FE (rumboost_hyperparameter_search.py)
     * the python scripts to run PCUF on Swissmetro and LPMC datasets (PCUF_Swissmetro.py and PCUF_LPMC.py)
