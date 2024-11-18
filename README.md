@@ -1,5 +1,5 @@
 # rumboost-paper-code
-All the code needed to reproduce the RUMBoost paper results. The code in ML classifiers is mostly adapted from [prediction-behavioural-analysis-ml-travel-mode-choice
+All the code needed to reproduce the RUMBoost [paper](https://doi.org/10.1016/j.trc.2024.104897) results. The code in ML classifiers is mostly adapted from [prediction-behavioural-analysis-ml-travel-mode-choice
 ](https://github.com/JoseAngelMartinB/prediction-behavioural-analysis-ml-travel-mode-choice), from [reslogit](https://github.com/LiTrans/reslogit) for the ResLogit and from [EnhancedDCM](https://github.com/BSifringer/EnhancedDCM) for the L-MNL.
 
  - The rumboost and RUMs folder contains:
